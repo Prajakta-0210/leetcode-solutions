@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
