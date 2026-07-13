@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -198,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
