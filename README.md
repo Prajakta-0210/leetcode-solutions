@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Prajakta-0210/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
