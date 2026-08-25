@@ -1,0 +1,25 @@
+func maxProfit(prices []int) int {
+	buy1 := -prices[0]
+	sell1 := 0
+	buy2 := -prices[0]
+	sell2 := 0
+
+	for i := 1; i < len(prices); i++ {
+		// First transaction
+		buy1 = max(buy1, -prices[i])
+		sell1 = max(sell1, buy1+prices[i])
+
+		// Second transaction
+		buy2 = max(buy2, sell1-prices[i])
+		sell2 = max(sell2, buy2+prices[i])
+	}
+
+	return sell2
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
